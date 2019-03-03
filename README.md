@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=logo.jpg/>
+</p>
+
 # Test These Katas
 [katas.py](katas.py) includes our solution to a [previous set of katas](https://my.kenzie.academy/courses/2/assignments/853?module_item_id=992)
 assessment.
